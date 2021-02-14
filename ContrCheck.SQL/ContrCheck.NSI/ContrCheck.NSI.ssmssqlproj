@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ContrCheck.NSI">
+  <Items>
+    <LogicalFolder Name="Соединения" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Запросы" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="nsi.sCodeFinanceReport.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>nsi.sCodeFinanceReport.sql</FullPath>
+        </FileNode>
+        <FileNode Name="nsi.sTypeFinReport.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>nsi.sTypeFinReport.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Разное" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

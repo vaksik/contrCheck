@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ContrCheck.Objects", "ContrCheck.Objects\ContrCheck.Objects.ssmssqlproj", "{467209DA-3514-4135-9487-2A693A6E4D4C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ContrCheck.NSI", "ContrCheck.NSI\ContrCheck.NSI.ssmssqlproj", "{D9CD29A2-8F76-4459-8504-DC228BEFD43C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "ContrCheck.Settings", "ContrCheck.Settings\ContrCheck.Settings.ssmssqlproj", "{B757A68D-203D-4933-B892-9F127C9753FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467209DA-3514-4135-9487-2A693A6E4D4C}.Default|Default.ActiveCfg = Default
+		{425FC75E-D08B-492E-AEF0-A9B51858F0CA}.Default|Default.ActiveCfg = Default
+		{D9CD29A2-8F76-4459-8504-DC228BEFD43C}.Default|Default.ActiveCfg = Default
+		{B757A68D-203D-4933-B892-9F127C9753FF}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
